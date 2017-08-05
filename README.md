@@ -10,6 +10,4 @@ rippleView
 
 ![ScanRipple](http://www.haowuyun.com/store/thumbs/2017/0719/19133545bwpe.gif)
 
-除了您现在看到的这个 Cmd Markdown 在线版本，您还可以前往以下网址下载：
-
 ### [具体详解参见文章](http://www.haowuyun.com/view/393)
